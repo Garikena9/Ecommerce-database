@@ -1,7 +1,5 @@
 # Ecommerce-database
 
-Ecommerce database (IIIT-Hyderabad, Great learning)
-
 Course Databases Management System
 
 This project mimics a simple Database schema for an e-commerce website. 
